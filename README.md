@@ -22,7 +22,7 @@ Michael Chen, David Ren, Hsiou-Yuan Liu, Shwetadwip Chowdhury, and Laura Waller
 Sample data is prepared [here](https://drive.google.com/drive/folders/19eQCMjTtiK8N1f1nGtXlfXkEa8qL6kDl?usp=sharing).
 
 ## Resources
-0. [MATLAB implementation](https://github.berkeley.edu/Waller-Lab/multi-slice) of the [multi-slice method](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-6-9-1211).
+0. [MATLAB implementation](https://github.com/Waller-Lab/multi-slice) of the [multi-slice method](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-6-9-1211).
 
 ## Updates
 08/27/2020:
