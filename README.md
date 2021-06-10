@@ -15,7 +15,7 @@ Michael Chen, David Ren, Hsiou-Yuan Liu, Shwetadwip Chowdhury, and Laura Waller
 
 ## Usage 
 0. Install required dependencies [Arrayfire](https://github.com/arrayfire/arrayfire-python) and [contexttimer](https://pypi.org/project/contexttimer/).
-1. Clone this repo: ```git clone https://github.berkeley.edu/Waller-Lab/multi-layer-born.git```
+1. Clone this repo.
 2. Run sample script for simulated measurements and reconstructions.
 
 ## Data
